@@ -5,7 +5,7 @@ ___
 |Input                      |Output|Description                           |
 |---------------------------|------|--------------------------------------| 
 |abcabcbb                   |3     |Basic happy path                      |
-|aaaaaaaa                   |1     |Checking equal symbols case           |
+|aaaaaaaaa                  |1     |Checking equal symbols case           |
 |abcdefghijklmnop           |16    |Checking case w/o repeating characters|
 |                           |0     |Checking empty string                 |
 |abbcdb                     |3     |Substring unequal to subsequence      |
